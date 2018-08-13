@@ -54,4 +54,4 @@ pagehelper:
   returnPageInfo: check
 
 env:
-  dev49
+  dev51
